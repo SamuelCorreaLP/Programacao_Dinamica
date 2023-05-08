@@ -1,0 +1,10 @@
+Resultado questão 1: 
+Menor tempo: 65
+Caminho percorrido: 1 1 1 1 1 1 1 0 0
+Tempo gasto: 44
+
+Resultado questão 2: 
+Menor tempo: 62
+Caminho percorrido: 1 1 0 0 0 0 0 0
+Tempo gasto: 38
+
